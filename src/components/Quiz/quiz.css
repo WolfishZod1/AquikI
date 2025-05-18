@@ -1,0 +1,41 @@
+.quizBox {
+    width: 450px;
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px rgb(95, 94, 93);
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid rgb(51, 108, 146);
+}
+
+.a {
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    border: 4px solid rgb(51, 108, 146);
+    background-color: rgba(119, 130, 96, 0.334);
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-wrap: wrap;
+}
+
+.qs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.q {
+    width: 180px;
+    height: 130px;
+    border-radius: 10px;
+    border: 4px solid rgb(51, 108, 146);
+    background-color: rgba(119, 130, 96, 0.334);
+    margin-top: 35px;
+    text-align: center;
+    text-wrap: wrap;
+}

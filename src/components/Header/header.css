@@ -1,0 +1,25 @@
+.headerBox {
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    max-width: 100%;
+    max-height: inherit;
+    overflow-y: auto;
+    border-bottom: 2px solid rgb(13,89,139);
+    box-shadow: 0px 5px 30px rgb(95, 94, 93);
+    border-radius: 0px 0px 5px 5px;
+}
+
+.logo {
+    height: 90px;
+    margin-left: 20px;
+}
+
+.aboutUs {
+    margin-left: 600px;
+}
+
+
+.settings {
+    margin-left: 600px;
+}

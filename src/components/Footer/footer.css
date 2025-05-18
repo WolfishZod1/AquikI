@@ -1,0 +1,10 @@
+.footerBox {
+    position: fixed; 
+    bottom: 0; 
+    left: 0; 
+    right: 0;
+    height: 50px;
+    background-color: rgba(54, 59, 44, 0.334);
+    color: white;
+    padding: 20px;
+}
